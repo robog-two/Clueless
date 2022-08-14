@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="dc548bae-4d00-488e-8ab8-6044fa20abb0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/app/imclueless/main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/app/imclueless/pieces/Character.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/app/imclueless/pieces/Location.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/app/imclueless/pieces/PieceType.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/app/imclueless/pieces/Weapon.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/app/imclueless/state/Card.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/app/imclueless/state/Player.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/app/imclueless/state/PlayerPiece.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/app/imclueless/state/Possibility.kt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Clueless" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+        <option value="Kotlin Enum" />
+        <option value="Kotlin Data Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DKfjc2vacR1EOeZLK6f3JdjIHH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "preferences.keymap"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveKotlinTopLevelDeclarationsDialog.RECENTS_KEY">
+      <recent name="app.imclueless.state" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc548bae-4d00-488e-8ab8-6044fa20abb0" name="Changes" comment="" />
+      <created>1660452835766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660452835766</updated>
+      <workItem from="1660452837322" duration="2951000" />
+      <workItem from="1660493028857" duration="18218000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
